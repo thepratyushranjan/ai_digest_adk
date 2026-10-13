@@ -1,0 +1,37 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+*.pyc
+__pycache__/
+
+# Sensitive files
+.env
+ai_digest/vertex.json
+
+# Data files
+data/*.json
+data/*.md
+
+# ADK session database
+ai_digest/.adk/session.db
+
+# Backup files
+*.bak
+
+# Python
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db

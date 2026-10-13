@@ -1,0 +1,6 @@
+google-adk
+feedparser
+httpx
+trafilatura
+markdown
+python-dotenv
